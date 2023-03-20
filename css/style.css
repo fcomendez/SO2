@@ -1,0 +1,16 @@
+.titulo{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 0%;
+}
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkgreen;
+}
+
+body{
+    background-color: darkgray;
+}
+
